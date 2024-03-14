@@ -11,3 +11,4 @@ Verifikasi Konfigurasi: Gunakan perintah untuk memverifikasi bahwa VLAN telah di
 Simpan Konfigurasi: Pastikan untuk menyimpan konfigurasi Anda agar tetap berlaku saat switch direstart atau daya padam.
 
 ![switching gmbr](https://github.com/faisalbinta29/switching/assets/151717525/719daff4-2078-4868-a28e-24b14e9da3c3)
+
